@@ -1,1 +1,1 @@
-file ignored txt
+ignoruji file.txt
